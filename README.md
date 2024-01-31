@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nomcebo Mthembu</h1>
+<h1 align="center">Hi 👋🏾, I'm Nomcebo Mthembu</h1>
 <h3 align="center">A self taught software developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomcebo-coder-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nomcebo-coder-hub" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/Nomcebo-coder-hub/Portfolio-website/tree/main)
+- 👩🏾‍💻 I’m currently working on [Portfolio Website](https://github.com/Nomcebo-coder-hub/Portfolio-website/tree/main)
 
 - 🌱 I’m currently learning **Bootstrap**
 
