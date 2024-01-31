@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nomcebo 👋
 
 <!--
-**Nomcebo-coder-hub/Nomcebo-coder-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught software developer.
 
 Here are some ideas to get you started:
 
