@@ -1,7 +1,6 @@
 ### Hi there, I'm Nomcebo 👋
 
 <!--
-A self-taught software developer.
 
 Here are some ideas to get you started:
 
