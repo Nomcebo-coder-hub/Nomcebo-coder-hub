@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomcebo-coder-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nomcebo-coder-hub" /> </p>
 
-- 👩🏾‍💻 I’m currently working on [Portfolio Website](https://github.com/Nomcebo-coder-hub/Portfolio-website/tree/main)
+- 👩🏾‍💻 See Portfolio: [Portfolio](https://github.com/Nomcebo-coder-hub/portfolio-project)
 
 - 🌱 I’m currently learning **Bootstrap**
 
